@@ -1,8 +1,7 @@
 # Halo, Saya Rab781! 👋
 ### 💻 Tentang Saya
-- 🔭 Saat ini saya bekerja pada [nama proyek atau pekerjaan Anda].
-- 🌱 Saat ini saya sedang mempelajari [topik tertentu].
-- 💬 Tanya saya tentang [keahlian Anda].
+- 🌱 Saat ini saya sedang mempelajari Machine Learning.
+- 💬 Tanya saya tentang tidak ada :D.
 
 ### ⚡ Teknologi & Alat
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
