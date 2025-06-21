@@ -1,77 +1,133 @@
-# 👋 Hello, I'm Rab781!
+# Hi there! 👋 I'm Mohammad Raihan Rabbani
 
-Selamat datang di profil GitHub saya!  
-Saya seorang mahasiswa IT yang passionate tentang teknologi, open-source, dan pembelajaran berkelanjutan. Di sini Anda akan menemukan berbagai proyek, tools favorit, dan kontribusi saya di komunitas developer.
-
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;IT+Student+%7C+Future+Developer;Looking+for+internship+opportunities;Building+cool+projects+with+passion!" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
 
-- 🎓 **Profession:** Mahasiswa IT
-- 🛠️ **Top Skills:** Web Development, Machine Learning, Data Science
-- 🌱 **Currently Learning:** Advanced ML algorithms, modern web frameworks
-- 🌟 **Favorite Projects:** [Freqtrade](https://github.com/freqtrade/freqtrade) - Algorithmic Trading Bot
-- 🤝 **Looking to Collaborate On:** Open-source projects, ML research, web applications
-- 💬 **Ask me about:** Python, JavaScript, Data Analysis, Trading algorithms
+Saya seorang mahasiswa IT yang passionate dalam dunia programming dan sedang aktif mencari kesempatan internship. Saya percaya bahwa setiap baris kode adalah langkah menuju impian menjadi programmer handal, meskipun terkadang rasa malas datang menghampiri (relatable banget kan? 😅).
 
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Freqtrade](https://github.com/freqtrade/freqtrade) | Algorithmic cryptocurrency trading bot | Python, Pandas, TA-Lib |
-| [Project 2](#) | Your web development project | HTML, CSS, JavaScript |
-| [Project 3](#) | Your ML/Data Science project | Python, Scikit-learn, TensorFlow |
-
----
+- 🎓 **Status:** Mahasiswa IT yang cukup aktif di kampus
+- 🔍 **Currently:** Sedang mencari kesempatan **internship**
+- 🌱 **Learning:** React.js dan Next.js untuk mengembangkan skill frontend
+- 💼 **Working on:** Mengembangkan portfolio dan melanjutkan RabTradeBot
+- 🎯 **Goal:** Menjadi programmer handal (dengan semangat yang konsisten!)
+- 💬 **Ask me about:** Laravel, Python, atau tips bertahan sebagai mahasiswa IT
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mohammadraihanrabbani/)
+- ⚡ **Fun fact:** Hobi tidur dan baca komik - perfect work-life balance! 😴📚
 
 ## 🛠️ Tech Stack
 
-### Web Development
+### Languages I Use
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Machine Learning & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Frameworks & Tools
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
----
-
-## 🌐 Connect with Me
-
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](#)
-- 🐦 **Twitter/X:** [Your Twitter Handle](#)
-- 🌐 **Portfolio:** [Your Website](#)
-
----
+### Currently Learning
+![React](https://img.shields.io/badge/Learning-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Learning-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rab781&show_icons=true&theme=radical&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rab781&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rab781&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rab781&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rab781&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rab781&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🔥 Featured Projects
+
+### 🌟 [WIB Fish Farm](https://github.com/rab781/wib-fish-farm)
+**E-commerce Single Vendor Platform**
+- 🛠 **Tech Stack:** Laravel, PHP, HTML, CSS, JavaScript
+- ⭐ **Highlights:** Full-featured e-commerce platform yang dikerjakan sendiri
+- 📈 **Achievement:** Project paling impressive dan menunjukkan kemampuan full-stack development
+- 🐟 **About:** Platform jual-beli ikan online dengan fitur management vendor tunggal
+
+### 🤖 [RabTradeBot](https://github.com/rab781/rabtradebot)
+**Telegram Trading Signal Bot**
+- 🛠 **Tech Stack:** Python, Telegram Bot API
+- ⭐ **Highlights:** Bot telegram untuk signal trading dengan akurasi tinggi
+- 📈 **Goal:** Memberikan signal buy/sell yang akurat untuk trading
+- 🚧 **Status:** Work in progress - akan dilanjutkan development-nya
+
+### 💼 [Portfolio Website](https://github.com/rab781/portfolio)
+**Personal Portfolio**
+- 🛠 **Tech Stack:** HTML, CSS, JavaScript (akan diupgrade ke React/Next.js)
+- ⭐ **Highlights:** Showcase semua project dan skill sebagai mahasiswa IT
+- 🎯 **Purpose:** Menarik perhatian recruiter untuk kesempatan internship
+
+## 🎯 Goals 2025
+
+- [x] **Masih hidup** - Alhamdulillah ✨
+- [ ] Mendapatkan internship di perusahaan tech yang keren
+- [ ] Menguasai React dan Next.js dengan baik
+- [ ] Melanjutkan dan menyelesaikan RabTradeBot
+- [ ] Mulai berkontribusi ke open source projects
+- [ ] Meningkatkan portfolio dengan project-project baru
+- [ ] Tetap balance antara ngoding dan baca komik 😄
+
+## 💡 Current Focus
+
+```javascript
+const currentStatus = {
+  role: "IT Student",
+  seeking: "Internship Opportunities",
+  learning: ["React.js", "Next.js"],
+  building: ["Portfolio", "RabTradeBot"],
+  motto: "Ingin jadi programmer handal, tapi kadang enggan ngoding 😅"
+};
+```
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammadraihanrabbani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rab781@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rab781&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+## 💭 Quote for Fellow Students
+
+<div align="center">
+  
+  *"Setiap expert pernah menjadi beginner. Setiap pro pernah menjadi amateur. Setiap icon pernah menjadi unknown."*
+  
+  **- Robin Sharma**
+  
+</div>
 
 ---
 
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rab781&theme=radical&no-frame=true&row=1&column=6)
-
----
-
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rab781&theme=radical)
-
----
-
-💡 **"Code is like a puzzle - every problem has a solution, you just need to find the right pieces."**
-
-Terima kasih telah mengunjungi profil saya! ⭐️ Jangan lupa untuk star repositories yang menarik!
+<div align="center">
+  
+  ### 🚀 Open for Internship Opportunities!
+  **Siap belajar, berkontribusi, dan tumbuh bersama tim yang amazing!**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=rab781&color=brightgreen&style=flat-square)
+  
+</div>
