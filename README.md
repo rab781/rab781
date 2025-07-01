@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mohammad Raihan Rabbani
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;IT+Student+%7C+Future+Developer;Looking+for+internship+opportunities;Building+cool+projects+with+passion!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multicolor=true&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;IT+Student+%7C+Future+Developer;Looking+for+internship+opportunities;Building+cool+projects+with+passion!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
