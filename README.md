@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Saya mahasiswa IT yang passionate dalam dunia programming dan sedang aktif mencari kesempatan internship. Saya percaya bahwa setiap baris kode adalah langkah kecil karena saya ingin menjadi programmer handal, meskipun malas ngoding (relatable banget kan? 😅).
+Saya mahasiswa IT yang passionate dalam dunia programming dan sedang aktif mencari kesempatan internship. Saya percaya bahwa setiap baris kode adalah langkah kecil karena saya ingin menjadi programmer handal, tapi malas ngoding (relatable banget kan? 😅).
 
 - 🎓 **Status:** Mahasiswa IT yang cukup aktif di kampus
 - 🔍 **Currently:** Sedang mencari kesempatan **internship**
@@ -88,7 +88,7 @@ const currentStatus = {
   seeking: "Internship Opportunities",
   learning: ["React.js", "Next.js"],
   building: ["Portfolio", "RabTradeBot"],
-  motto: "Ingin jadi programmer handal, tapi kadang enggan ngoding 😅"
+  motto: "Ingin jadi programmer handal, tapi malas ngoding 😅"
 };
 ```
 
@@ -98,7 +98,7 @@ const currentStatus = {
   <a href="https://www.linkedin.com/in/mohammadraihanrabbani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rab781@example.com" target="_blank">
+  <a href="mailto:raihanrabbani199@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
