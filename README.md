@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Saya seorang mahasiswa IT yang passionate dalam dunia programming dan sedang aktif mencari kesempatan internship. Saya percaya bahwa setiap baris kode adalah langkah menuju impian menjadi programmer handal, meskipun terkadang rasa malas datang menghampiri (relatable banget kan? 😅).
+Saya mahasiswa IT yang passionate dalam dunia programming dan sedang aktif mencari kesempatan internship. Saya percaya bahwa setiap baris kode adalah langkah kecil karena saya ingin menjadi programmer handal, meskipun malas ngoding (relatable banget kan? 😅).
 
 - 🎓 **Status:** Mahasiswa IT yang cukup aktif di kampus
 - 🔍 **Currently:** Sedang mencari kesempatan **internship**
@@ -42,9 +42,7 @@ Saya seorang mahasiswa IT yang passionate dalam dunia programming dan sedang akt
   <img src="https://github-readme-stats.vercel.app/api?username=rab781&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rab781&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rab781)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rab781&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
