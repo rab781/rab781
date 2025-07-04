@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Saya mahasiswa IT yang passionate dalam dunia programming dan sedang aktif mencari kesempatan internship. Saya percaya bahwa setiap baris kode adalah langkah kecil karena saya ingin menjadi programmer handal, tapi malas ngoding (relatable banget kan? 😅).
+Saya mahasiswa IT yang passionate dalam dunia programming dan sedang aktif mencari kesempatan internship. Saya percaya bahwa setiap baris kode adalah langkah kecil karena saya ingin menjadi programmer handal, tapi malas ngoding (relate? 😅).
 
 - 🎓 **Status:** Mahasiswa IT yang cukup aktif di kampus
 - 🔍 **Currently:** Sedang mencari kesempatan **internship**
@@ -43,7 +43,7 @@ Saya mahasiswa IT yang passionate dalam dunia programming dan sedang aktif menca
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rab781" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rab781&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
