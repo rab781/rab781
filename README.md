@@ -43,7 +43,7 @@ Saya mahasiswa IT yang passionate dalam dunia programming dan sedang aktif menca
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rab781&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rab781&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
