@@ -29,8 +29,6 @@ Saya mahasiswa IT yang passionate dalam dunia programming dan sedang aktif menca
 
 ### Frameworks & Tools
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Currently Learning
 ![React](https://img.shields.io/badge/Learning-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
