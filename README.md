@@ -53,4 +53,3 @@ Personal portfolio showcasing projects and technical skills.
 
 ---
 
-*Available for internship opportunities starting 2025*
