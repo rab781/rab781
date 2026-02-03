@@ -8,7 +8,7 @@ I am an IT student actively seeking internship opportunities to apply and expand
 
 **Current Status:** IT Student  
 **Location:** Indonesia  
-**Focus:** Web Development & Software Engineering  
+**Focus:** Ai Engineer, Data Scientist, Data Analys, and Machine Learning Project 
 **Availability:** Open for internship opportunities
 
 ## Technical Skills
@@ -17,7 +17,7 @@ I am an IT student actively seeking internship opportunities to apply and expand
 Python • PHP • C# • JavaScript • HTML5 • CSS3
 
 **Frameworks & Technologies**  
-Laravel • React.js (learning) • Next.js (learning)
+Laravel • React.js  • Next.js 
 
 **Development**  
 Full-stack Development • E-commerce Systems • API Integration • Bot Development
