@@ -1,131 +1,56 @@
-# Hi there! 👋 I'm Mohammad Raihan Rabbani
+# Mohammad Raihan Rabbani
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multicolor=true&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;IT+Student+%7C+Future+Developer;Looking+for+internship+opportunities;Building+cool+projects+with+passion!" alt="Typing SVG" />
-</div>
+IT Student | Aspiring Software Developer | Open for Internship Opportunities
 
-## 🚀 About Me
+## About Me
 
-Saya mahasiswa IT yang passionate dalam dunia programming dan sedang aktif mencari kesempatan internship. Saya percaya bahwa setiap baris kode adalah langkah kecil karena saya ingin menjadi programmer handal, tapi malas ngoding (relate? 😅).
+I am an IT student actively seeking internship opportunities to apply and expand my technical skills in a professional environment. I have hands-on experience in full-stack development and am continuously learning modern web technologies.
 
-- 🎓 **Status:** Mahasiswa IT yang cukup aktif di kampus
-- 🔍 **Currently:** Sedang mencari kesempatan **internship**
-- 🌱 **Learning:** React.js dan Next.js untuk mengembangkan skill frontend
-- 💼 **Working on:** Mengembangkan portfolio dan melanjutkan RabTradeBot
-- 🎯 **Goal:** Menjadi programmer handal (dengan semangat yang konsisten!)
-- 💬 **Ask me about:** Laravel, Python, atau tips bertahan sebagai mahasiswa IT
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mohammadraihanrabbani/)
-- ⚡ **Fun fact:** Hobi tidur dan baca komik - perfect work-life balance! 😴📚
+**Current Status:** IT Student  
+**Location:** Indonesia  
+**Focus:** Web Development & Software Engineering  
+**Availability:** Open for internship opportunities
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### Languages I Use
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Programming Languages**  
+Python • PHP • C# • JavaScript • HTML5 • CSS3
 
-### Frameworks & Tools
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Frameworks & Technologies**  
+Laravel • React.js (learning) • Next.js (learning)
 
-### Currently Learning
-![React](https://img.shields.io/badge/Learning-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Learning-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+**Development**  
+Full-stack Development • E-commerce Systems • API Integration • Bot Development
 
-## 📊 GitHub Stats
+## Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rab781&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
+### [WIB Fish Farm](https://github.com/rab781/wib-fish-farm)
+E-commerce platform for online fish trading with single vendor management system.  
+**Tech Stack:** Laravel, PHP, JavaScript, HTML, CSS  
+**Key Achievement:** Independently developed full-featured e-commerce platform demonstrating full-stack capabilities
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rab781&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+### [RabTradeBot](https://github.com/rab781/rabtradebot)
+Telegram bot for trading signals with automated analysis.  
+**Tech Stack:** Python, Telegram Bot API  
+**Status:** Active development
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rab781&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+### [Portfolio Website](https://github.com/rab781/portfolio)
+Personal portfolio showcasing projects and technical skills.  
+**Tech Stack:** HTML, CSS, JavaScript (upgrading to React/Next.js)
 
-## 🔥 Featured Projects
+## Professional Goals
 
-### 🌟 [WIB Fish Farm](https://github.com/rab781/wib-fish-farm)
-**E-commerce Single Vendor Platform**
-- 🛠 **Tech Stack:** Laravel, PHP, HTML, CSS, JavaScript
-- ⭐ **Highlights:** Full-featured e-commerce platform yang dikerjakan sendiri
-- 📈 **Achievement:** Project paling impressive dan menunjukkan kemampuan full-stack development
-- 🐟 **About:** Platform jual-beli ikan online dengan fitur management vendor tunggal
+- Secure an internship position at a technology company
+- Master React.js and Next.js for modern web development
+- Contribute to open-source projects
+- Expand portfolio with impactful projects
 
-### 🤖 [RabTradeBot](https://github.com/rab781/rabtradebot)
-**Telegram Trading Signal Bot**
-- 🛠 **Tech Stack:** Python, Telegram Bot API
-- ⭐ **Highlights:** Bot telegram untuk signal trading dengan akurasi tinggi
-- 📈 **Goal:** Memberikan signal buy/sell yang akurat untuk trading
-- 🚧 **Status:** Work in progress - akan dilanjutkan development-nya
+## Contact
 
-### 💼 [Portfolio Website](https://github.com/rab781/portfolio)
-**Personal Portfolio**
-- 🛠 **Tech Stack:** HTML, CSS, JavaScript (akan diupgrade ke React/Next.js)
-- ⭐ **Highlights:** Showcase semua project dan skill sebagai mahasiswa IT
-- 🎯 **Purpose:** Menarik perhatian recruiter untuk kesempatan internship
-
-## 🎯 Goals 2025
-
-- [x] **Masih hidup** - Alhamdulillah ✨
-- [ ] Mendapatkan internship di perusahaan tech yang keren
-- [ ] Menguasai React dan Next.js dengan baik
-- [ ] Melanjutkan dan menyelesaikan RabTradeBot
-- [ ] Mulai berkontribusi ke open source projects
-- [ ] Meningkatkan portfolio dengan project-project baru
-- [ ] Tetap balance antara ngoding dan baca komik 😄
-
-## 💡 Current Focus
-
-```javascript
-const currentStatus = {
-  role: "IT Student",
-  seeking: "Internship Opportunities",
-  learning: ["React.js", "Next.js"],
-  building: ["Portfolio", "RabTradeBot"],
-  motto: "Ingin jadi programmer handal, tapi malas ngoding 😅"
-};
-```
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohammadraihanrabbani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:raihanrabbani199@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rab781&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-## 💭 Quote for Fellow Students
-
-<div align="center">
-  
-  *"Setiap expert pernah menjadi beginner. Setiap pro pernah menjadi amateur. Setiap icon pernah menjadi unknown."*
-  
-  **- Robin Sharma**
-  
-</div>
+📧 Email: raihanrabbani199@gmail.com  
+💼 LinkedIn: [linkedin.com/in/mohammadraihanrabbani](https://www.linkedin.com/in/mohammadraihanrabbani/)  
+🔗 GitHub: [github.com/rab781](https://github.com/rab781)
 
 ---
 
-<div align="center">
-  
-  ### 🚀 Open for Internship Opportunities!
-  **Siap belajar, berkontribusi, dan tumbuh bersama tim yang amazing!**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rab781&color=brightgreen&style=flat-square)
-  
-</div>
+*Available for internship opportunities starting 2025*
