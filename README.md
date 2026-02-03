@@ -9,6 +9,7 @@ I am an IT student actively seeking internship opportunities to apply and expand
 **Current Status:** IT Student  
 **Location:** Indonesia  
 **Focus:** Ai Engineer, Data Scientist, Data Analys, and Machine Learning Project 
+
 **Availability:** Open for internship opportunities
 
 ## Technical Skills
