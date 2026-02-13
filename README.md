@@ -8,7 +8,7 @@ I am an IT student actively seeking internship opportunities to apply and expand
 
 **Current Status:** IT Student  
 **Location:** Indonesia  
-**Focus:** Ai Engineer, Data Scientist, Data Analyst, and Machine Learning Project
+**Focus:** AI Engineer, Data Scientist, Data Analyst, and Machine Learning Project
 
 **Availability:** Open for internship opportunities
 
@@ -56,5 +56,5 @@ Personal portfolio showcasing projects and technical skills.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rab781&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rab781&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rab781&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rab781&layout=compact&theme=radical)
