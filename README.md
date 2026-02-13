@@ -8,17 +8,17 @@ I am an IT student actively seeking internship opportunities to apply and expand
 
 **Current Status:** IT Student  
 **Location:** Indonesia  
-**Focus:** Ai Engineer, Data Scientist, Data Analys, and Machine Learning Project 
+**Focus:** Ai Engineer, Data Scientist, Data Analyst, and Machine Learning Project
 
 **Availability:** Open for internship opportunities
 
 ## Technical Skills
 
 **Programming Languages**  
-Python • PHP • C# • JavaScript • HTML5 • CSS3
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Technologies**  
-Laravel • React.js  • Next.js 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Development**  
 Full-stack Development • E-commerce Systems • API Integration • Bot Development
@@ -54,3 +54,7 @@ Personal portfolio showcasing projects and technical skills.
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rab781&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rab781&layout=compact&theme=radical)
