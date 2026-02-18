@@ -8,7 +8,7 @@ I am an IT student actively seeking internship opportunities to apply and expand
 
 **Current Status:** IT Student  
 **Location:** Indonesia  
-**Focus:** AI Engineer, Data Scientist, Data Analyst, and Machine Learning Project
+**Focus:** AI Engineer, Data Scientist, Data Analyst, and Machine Learning Engineer
 
 **Availability:** Open for internship opportunities
 
@@ -48,9 +48,7 @@ Personal portfolio showcasing projects and technical skills.
 
 ## Contact
 
-📧 Email: [raihanrabbani199@gmail.com](mailto:raihanrabbani199@gmail.com)
-💼 LinkedIn: [linkedin.com/in/mohammadraihanrabbani](https://www.linkedin.com/in/mohammadraihanrabbani/)  
-🔗 GitHub: [github.com/rab781](https://github.com/rab781)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihanrabbani199@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadraihanrabbani/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rab781)
 
 ---
 
