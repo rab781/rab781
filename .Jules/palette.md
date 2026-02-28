@@ -1,0 +1,3 @@
+## 2024-05-18 - Improve README Contact Section UX and Privacy
+**Learning:** Adding interactive badges instead of basic text links for contact information significantly improves the click target area for users, enhancing accessibility and making the profile feel more modern. Additionally, removing raw `mailto:` links is essential for privacy (PII) to prevent bots from scraping email addresses directly from public repositories.
+**Action:** When working on GitHub profile READMEs, prefer using visually distinct interactive elements like Shields.io badges for critical links (e.g., LinkedIn, GitHub) and avoid raw `mailto:` links.
