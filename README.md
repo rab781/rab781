@@ -56,5 +56,5 @@ Personal portfolio showcasing projects and technical skills.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rab781&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rab781&layout=compact&theme=radical&cache_seconds=86400)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rab781&show_icons=true&theme=radical&cache_seconds=86400)](https://github.com/rab781 "View full GitHub profile")
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rab781&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/rab781?tab=repositories "View GitHub repositories")
