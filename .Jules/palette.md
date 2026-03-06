@@ -9,3 +9,7 @@
 ## 2026-03-05 - Interactive Profile Stats Cards
 **Learning:** Default markdown image behavior on platforms like GitHub opens the raw SVG image when clicked, creating a confusing and dead-end user experience. This affects large visual elements like profile stat cards which users naturally expect to be clickable. Wrapping these cards in meaningful destination links (like the user's profile or repositories tab) with hover titles transforms them into large, accessible click targets.
 **Action:** When adding visual stat cards or large informational images, always wrap them in relevant links with descriptive title attributes to prevent raw image views and improve navigation.
+
+## 2026-03-06 - Meaningful Links for All Badges
+**Learning:** Just like large stat cards, clicking on standard skill/technology badges in Markdown on platforms like GitHub opens the raw image file if not wrapped in a link. This breaks user flow and creates a confusing experience. Wrapping these small badges in meaningful links (like official documentation or a relevant website) with descriptive hover titles transforms decorative elements into useful, accessible resources and prevents raw image views.
+**Action:** Always wrap standard Markdown badges (e.g., skill/technology shields) in meaningful external links with descriptive `title` attributes (tooltips) to enhance utility and prevent dead-end interactions.
