@@ -13,3 +13,7 @@
 ## 2026-03-06 - Meaningful Links for All Badges
 **Learning:** Just like large stat cards, clicking on standard skill/technology badges in Markdown on platforms like GitHub opens the raw image file if not wrapped in a link. This breaks user flow and creates a confusing experience. Wrapping these small badges in meaningful links (like official documentation or a relevant website) with descriptive hover titles transforms decorative elements into useful, accessible resources and prevents raw image views.
 **Action:** Always wrap standard Markdown badges (e.g., skill/technology shields) in meaningful external links with descriptive `title` attributes (tooltips) to enhance utility and prevent dead-end interactions.
+
+## 2026-03-07 - Pre-filled Subject in Contact Links
+**Learning:** When a user's primary goal is known (e.g., seeking internship opportunities), friction for outreach can be reduced by appending query parameters to `mailto:` links to pre-fill the subject line, allowing recruiters or connections to respond quickly and directly without thinking of an email title.
+**Action:** Append `?subject=...` and update tooltips on generic contact links (like `mailto:`) when the user has an explicit, dominant goal, to streamline the process for end-users to contact them.
