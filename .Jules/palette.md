@@ -17,3 +17,7 @@
 ## 2026-03-07 - Pre-filled Subject in Contact Links
 **Learning:** When a user's primary goal is known (e.g., seeking internship opportunities), friction for outreach can be reduced by appending query parameters to `mailto:` links to pre-fill the subject line, allowing recruiters or connections to respond quickly and directly without thinking of an email title.
 **Action:** Append `?subject=...` and update tooltips on generic contact links (like `mailto:`) when the user has an explicit, dominant goal, to streamline the process for end-users to contact them.
+
+## 2026-03-08 - Descriptive Tooltips for Standard Text Links
+**Learning:** While wrapping badges and visual elements in meaningful links is important, standard markdown text links also benefit from descriptive `title` attributes (tooltips). Providing context before clicking (e.g., "View [Project] repository on GitHub") improves navigation confidence and accessibility, especially when the link text alone might not fully convey the destination.
+**Action:** Always add descriptive `title` attributes (tooltips) to standard markdown text links to provide additional context about the destination and improve user confidence.
