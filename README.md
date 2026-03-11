@@ -25,17 +25,17 @@ Full-stack Development • E-commerce Systems • API Integration • Bot Develo
 
 ## Featured Projects
 
-### [WIB Fish Farm](https://github.com/rab781/wib-fish-farm)
+### [WIB Fish Farm](https://github.com/rab781/wib-fish-farm "View WIB Fish Farm repository on GitHub")
 E-commerce platform for online fish trading with single vendor management system.  
 **Tech Stack:** Laravel, PHP, JavaScript, HTML, CSS  
 **Key Achievement:** Independently developed full-featured e-commerce platform demonstrating full-stack capabilities
 
-### [RabTradeBot](https://github.com/rab781/rabtradebot)
+### [RabTradeBot](https://github.com/rab781/rabtradebot "View RabTradeBot repository on GitHub")
 Telegram bot for trading signals with automated analysis.  
 **Tech Stack:** Python, Telegram Bot API  
 **Status:** Active development
 
-### [Portfolio Website](https://github.com/rab781/portfolio)
+### [Portfolio Website](https://github.com/rab781/portfolio "View Portfolio repository on GitHub")
 Personal portfolio showcasing projects and technical skills.  
 **Tech Stack:** HTML, CSS, JavaScript (upgrading to React/Next.js)
 
