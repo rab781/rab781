@@ -21,3 +21,7 @@
 ## 2026-03-08 - Tooltips for Markdown Text Links
 **Learning:** Standard markdown text links, especially those pointing to external projects or resources, can leave users uncertain about the destination. Adding descriptive `title` attributes (tooltips) provides better context and improves accessibility by giving users an expectation of what they are clicking before taking action.
 **Action:** Always include descriptive `title` attributes for standard markdown text links to external projects or resources to enhance user context and navigation confidence.
+
+## 2026-03-09 - Actionable Availability Statements
+**Learning:** Transforming static statements (like "Open for Internship Opportunities") into direct, clickable communication links (e.g., `mailto:` with pre-filled subjects) changes passive text into an immediate call-to-action. This reduces friction for outreach by allowing recruiters or connections to contact the user instantly without having to find the contact section.
+**Action:** When a user expresses a clear, actionable status or goal in plain text (such as seeking opportunities), convert those statements into accessible, descriptive links that enable immediate interaction.
