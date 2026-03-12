@@ -1,6 +1,6 @@
 # Mohammad Raihan Rabbani
 
-IT Student | Aspiring Software Developer | Open for Internship Opportunities
+IT Student | Aspiring Software Developer | [Open for Internship Opportunities](mailto:raihanrabbani199@gmail.com?subject=Internship%20Opportunity "Email me about internship opportunities")
 
 ## About Me
 
@@ -10,7 +10,7 @@ I am an IT student actively seeking internship opportunities to apply and expand
 **Location:** Indonesia  
 **Focus:** AI Engineer, Data Scientist, Data Analyst, and Machine Learning Engineer
 
-**Availability:** Open for internship opportunities
+**Availability:** [Open for internship opportunities](mailto:raihanrabbani199@gmail.com?subject=Internship%20Opportunity "Email me about internship opportunities")
 
 ## Technical Skills
 
