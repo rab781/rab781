@@ -25,3 +25,11 @@
 ## 2026-03-09 - Actionable Availability Statements
 **Learning:** Transforming static statements (like "Open for Internship Opportunities") into direct, clickable communication links (e.g., `mailto:` with pre-filled subjects) changes passive text into an immediate call-to-action. This reduces friction for outreach by allowing recruiters or connections to contact the user instantly without having to find the contact section.
 **Action:** When a user expresses a clear, actionable status or goal in plain text (such as seeking opportunities), convert those statements into accessible, descriptive links that enable immediate interaction.
+
+## 2026-03-14 - Screen Reader Friendly Separators
+**Learning:** Using pipe characters (`|`) as text separators can disrupt the reading flow for screen reader users, as some screen readers announce "vertical line" or "pipe". Bullet characters (`•`) are often ignored or read more naturally as list items or pauses.
+**Action:** Prefer bullet characters (`•`) over pipe characters (`|`) for separating inline text items to improve accessibility and screen reader flow.
+
+## 2026-03-14 - Prominent Visual Badges for Calls-to-Action
+**Learning:** Converting primary inline text calls-to-action (like "Open for Internship Opportunities") into visually distinct, larger targets such as Shields.io badges enhances visual prominence and click target accessibility, making it easier for users to notice and interact with key links.
+**Action:** Use distinct visual elements like badges for primary calls-to-action to improve visual hierarchy and accessibility.
