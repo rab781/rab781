@@ -25,3 +25,7 @@
 ## 2026-03-09 - Actionable Availability Statements
 **Learning:** Transforming static statements (like "Open for Internship Opportunities") into direct, clickable communication links (e.g., `mailto:` with pre-filled subjects) changes passive text into an immediate call-to-action. This reduces friction for outreach by allowing recruiters or connections to contact the user instantly without having to find the contact section.
 **Action:** When a user expresses a clear, actionable status or goal in plain text (such as seeking opportunities), convert those statements into accessible, descriptive links that enable immediate interaction.
+
+## 2026-03-10 - Visual Prominence for Primary Calls-to-Action
+**Learning:** Inline text links for primary calls-to-action (like "Open for Internship Opportunities") can easily blend into surrounding text and often offer small, less accessible click targets. Converting these important plain text statements into visually distinct elements like badges (e.g., Shields.io) makes the action stand out immediately, improves visual UX, and provides a larger, easier-to-hit click target for users.
+**Action:** When a document has a primary, text-based call-to-action that represents the user's main intent, convert it into a distinct, larger visual target (like a badge) to enhance prominence and click target accessibility.
