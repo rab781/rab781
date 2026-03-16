@@ -8,7 +8,7 @@ I am an IT student actively seeking internship opportunities to apply and expand
 
 **Current Status:** IT Student  
 **Location:** Indonesia  
-**Focus:** AI Engineer, Data Scientist, Data Analyst, and Machine Learning Engineer
+**Focus:** `AI Engineer` • `Data Scientist` • `Data Analyst` • `Machine Learning Engineer`
 
 **Availability:** [![Open for internship opportunities](https://img.shields.io/badge/Status-Open_for_Internship-success?style=for-the-badge)](mailto:raihanrabbani199@gmail.com?subject=Internship%20Opportunity "Email me about internship opportunities")
 
@@ -21,23 +21,23 @@ I am an IT student actively seeking internship opportunities to apply and expand
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/ "Visit Laravel official website") [![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/ "Visit React.js official website") [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/ "Visit Next.js official website")
 
 **Development**  
-Full-stack Development • E-commerce Systems • API Integration • Bot Development
+`Full-stack Development` • `E-commerce Systems` • `API Integration` • `Bot Development`
 
 ## Featured Projects
 
 ### [WIB Fish Farm](https://github.com/rab781/wib-fish-farm "View WIB Fish Farm repository on GitHub")
 E-commerce platform for online fish trading with single vendor management system.  
-**Tech Stack:** Laravel, PHP, JavaScript, HTML, CSS  
+**Tech Stack:** `Laravel` • `PHP` • `JavaScript` • `HTML` • `CSS`
 **Key Achievement:** Independently developed full-featured e-commerce platform demonstrating full-stack capabilities
 
 ### [RabTradeBot](https://github.com/rab781/rabtradebot "View RabTradeBot repository on GitHub")
 Telegram bot for trading signals with automated analysis.  
-**Tech Stack:** Python, Telegram Bot API  
+**Tech Stack:** `Python` • `Telegram Bot API`
 **Status:** Active development
 
 ### [Portfolio Website](https://github.com/rab781/portfolio "View Portfolio repository on GitHub")
 Personal portfolio showcasing projects and technical skills.  
-**Tech Stack:** HTML, CSS, JavaScript (upgrading to React/Next.js)
+**Tech Stack:** `HTML` • `CSS` • `JavaScript` (upgrading to React/Next.js)
 
 ## Professional Goals
 
