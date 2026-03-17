@@ -21,7 +21,7 @@ I am an IT student actively seeking internship opportunities to apply and expand
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/ "Visit Laravel official website") [![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/ "Visit React.js official website") [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/ "Visit Next.js official website")
 
 **Development**  
-Full-stack Development • E-commerce Systems • API Integration • Bot Development
+`Full-stack Development` • `E-commerce Systems` • `API Integration` • `Bot Development`
 
 ## Featured Projects
 
