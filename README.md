@@ -10,7 +10,7 @@ I am an IT student actively seeking internship opportunities to apply and expand
 **Location:** Indonesia  
 **Focus:** `AI Engineer` • `Data Scientist` • `Data Analyst` • `Machine Learning Engineer`
 
-**Availability:** [![Open for internship opportunities](https://img.shields.io/badge/Status-Open_for_Internship-success?style=for-the-badge)](mailto:raihanrabbani199@gmail.com?subject=Internship%20Opportunity "Email me about internship opportunities")
+**Availability:** [![Open for Internship Opportunities](https://img.shields.io/badge/Status-Open_for_Internship-success?style=for-the-badge)](mailto:raihanrabbani199@gmail.com?subject=Internship%20Opportunity "Email me about internship opportunities")
 
 ## Technical Skills
 
@@ -37,7 +37,7 @@ Telegram bot for trading signals with automated analysis.
 
 ### [Portfolio Website](https://github.com/rab781/portfolio "View Portfolio repository on GitHub")
 Personal portfolio showcasing projects and technical skills.  
-**Tech Stack:** `HTML` • `CSS` • `JavaScript` (upgrading to `React` / `Next.js`)
+**Tech Stack:** `HTML` • `CSS` • `JavaScript` (upgrading to `React.js` • `Next.js`)
 
 ## Professional Goals
 
@@ -47,6 +47,8 @@ Personal portfolio showcasing projects and technical skills.
 - Expand portfolio with impactful projects
 
 ## Contact
+
+You can reach me directly at `raihanrabbani199@gmail.com` or through the links below:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihanrabbani199@gmail.com?subject=Internship%20Opportunity "Send an email regarding an internship")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadraihanrabbani/ "Visit my LinkedIn profile")

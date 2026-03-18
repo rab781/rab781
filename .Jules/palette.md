@@ -33,3 +33,7 @@
 ## 2024-03-15 - Scannable Inline Code Tags for Metadata
 **Learning:** Standard comma-separated lists for metadata (like tech stacks or focus areas) can be difficult to quickly scan in plain markdown text. Wrapping individual items in inline code blocks (surrounded by backticks, like `React`) combined with bullet separators (`•` instead of commas or pipes) transforms them into distinct, lightweight visual "tags". This improves readability, provides better visual boundaries between items without relying on external images or complex components, and enhances the experience for screen reader users by creating clearer pauses.
 **Action:** When presenting lists of metadata terms or technologies in plain text markdown (where full image badges are not appropriate), format them as inline code tags separated by bullet characters (`•`) to enhance scannability and structure.
+
+## 2024-05-24 - Visible Email Fallback for Mailto Links
+**Learning:** Relying solely on `mailto:` badges for email contact hides the actual email address text. This creates a frustrating, dead-end experience for users who do not have a default OS email client configured (e.g., users who rely on webmail interfaces like Gmail or Outlook in the browser) or who simply want to copy the address for later use.
+**Action:** Always provide the visible email address as a clear, copyable text snippet (e.g., in an inline code block) alongside or immediately preceding any primary `mailto:` contact badges to ensure accessibility for all users regardless of their system configuration.
