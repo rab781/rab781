@@ -58,5 +58,5 @@ You can reach me directly at `raihanrabbani199@gmail.com` or through the links b
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rab781&show_icons=true&theme=radical&cache_seconds=86400)](https://github.com/rab781 "View full GitHub profile")
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rab781&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rab781&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/rab781?tab=repositories "View GitHub repositories")
