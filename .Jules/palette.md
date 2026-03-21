@@ -37,3 +37,7 @@
 ## 2024-05-24 - Visible Email Fallback for Mailto Links
 **Learning:** Relying solely on `mailto:` badges for email contact hides the actual email address text. This creates a frustrating, dead-end experience for users who do not have a default OS email client configured (e.g., users who rely on webmail interfaces like Gmail or Outlook in the browser) or who simply want to copy the address for later use.
 **Action:** Always provide the visible email address as a clear, copyable text snippet (e.g., in an inline code block) alongside or immediately preceding any primary `mailto:` contact badges to ensure accessibility for all users regardless of their system configuration.
+
+## 2024-05-25 - Trailing Double Spaces for Metadata Line Breaks
+**Learning:** Using trailing double spaces at the end of lines in Markdown metadata sections (such as 'Tech Stack') ensures proper visual line breaks without creating new paragraphs. This approach prevents lines from wrapping together unexpectedly and maintains a clean layout that is easier for users to scan and for screen readers to interpret correctly.
+**Action:** Append two spaces at the end of each line in metadata lists or similar sections to force a hard line break while keeping the content within the same paragraph block.
